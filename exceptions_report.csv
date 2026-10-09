@@ -1,5 +1,0 @@
-source,ref,date,description,amount,classification,days_open,aged,suggested_action
-Bank statement,BS-026,2026-09-30,Merchant fees - September (bank debit),-38410.00,GL adjustment,,,Journal required - Treasury
-GL cash book,CB-001,2026-08-27,Unpresented refund payments (brought forward),-61730.00,Timing - AGED,34,Aged,Chase / reverse if stale
-GL cash book,CB-026,2026-09-29,Supplier EFT batch released 29 Sep (clears 1 Oct),-845200.00,Timing,1,,Clears next period
-GL cash book,CB-029,2026-09-30,Card settlement trading 30 Sep (banks 1 Oct),1420350.00,Timing,0,,Clears next period
