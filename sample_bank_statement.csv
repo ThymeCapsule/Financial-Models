@@ -1,0 +1,28 @@
+ref,date,description,amount
+BS-001,2026-09-02,Supplier EFT batch 0902 - merchandise,-2316480.75
+BS-002,2026-09-02,Card settlement - stores (30 Aug to 1 Sep),7284160.35
+BS-003,2026-09-03,Payroll run - fortnightly net pay,-4268935.10
+BS-004,2026-09-03,Online gateway settlement (cards and wallets),1912455.20
+BS-005,2026-09-04,Freight and customs - inbound containers,-318244.60
+BS-006,2026-09-07,Card settlement - stores (2 to 4 Sep),6451872.90
+BS-007,2026-09-08,Customer remittances - corporate accounts,412360.00
+BS-008,2026-09-09,Rent - direct debit (head office and DC),-1146200.00
+BS-009,2026-09-09,Online gateway settlement (cards and wallets),2054817.45
+BS-010,2026-09-10,Super clearing house payment (payday super),-508962.40
+BS-011,2026-09-11,Card settlement - stores (7 to 10 Sep),7019933.85
+BS-012,2026-09-14,Supplier EFT batch 0911 - merchandise,-3104721.15
+BS-013,2026-09-15,ATO - August BAS and PAYG withholding,-3827490.00
+BS-014,2026-09-15,Online gateway settlement (cards and wallets),1788045.90
+BS-015,2026-09-17,Payroll run - fortnightly net pay,-4291118.55
+BS-016,2026-09-17,Card settlement - stores (11 to 16 Sep),8236540.70
+BS-017,2026-09-21,Supplier EFT batch 0918 - merchandise,-2672309.30
+BS-018,2026-09-22,Utilities and telecommunications - direct debit,-214876.25
+BS-019,2026-09-22,Online gateway settlement (cards and wallets),1936207.15
+BS-020,2026-09-24,Super clearing house payment (payday super),-512087.80
+BS-021,2026-09-24,Card settlement - stores (17 to 23 Sep),8872615.40
+BS-022,2026-09-28,Supplier EFT batch 0925 - merchandise and fit-out,-2958602.45
+BS-023,2026-09-28,Marketing - media and agency payments,-906455.70
+BS-024,2026-09-29,Online gateway settlement (cards and wallets),2101388.60
+BS-025,2026-09-30,Loan interest and facility fees,-640000.00
+BS-026,2026-09-30,Merchant fees - September (bank debit),-38410.00
+BS-027,2026-09-30,Card settlement - stores (24 to 29 Sep),7765092.25
